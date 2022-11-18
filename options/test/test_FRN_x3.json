@@ -27,6 +27,6 @@
     },
 
     "solver": {
-        "pretrained_path": "/home/ser606/Desktop/liufeiqiang/DRRDN/models/DRRDN_x3_BI.pth"
+        "pretrained_path": "./FRN/models/FRN_x3.pth"
     }
 }
