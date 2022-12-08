@@ -16,7 +16,8 @@ Test:
     python test.py -opt options/test/test_FRN_x3.json
     python test.py -opt options/test/test_FRN_x4.json
 
-    Finally, PSNR/SSIM values for Set5 are shown on your screen, you can find the reconstruction images in ./results
+    Finally, PSNR/SSIM values for Set5 are shown on your screen, you can find the reconstruction images in ./results. Other standard SR benchmark dadasets, you need to
+    change the datasets storage path in the test_FRN_x2.json, test_FRN_x3.json and test_FRN_x4.json files.
     
     
 If you find our work useful in your research or publications, please consider citing:
