@@ -89,13 +89,7 @@ def define_net(opt):
     which_model = opt['which_model'].upper()
     print('===> Building network [%s]...'%which_model)
 
-    if which_model =='IDFN':
-        from .idfn_arch import IDFN
-        net = IDFN(in_channels=opt['in_channels'],out_channels=opt['out_channels'], num_features=opt['num_features'],
-                              num_steps=opt['num_steps'],num_blocks=opt['num_blocks'],num_convs=opt['num_convs']
-                              ,upscale_factor = opt['scale'])
-
-    elif which_model =='FRN':
+    if which_model =='FRN':
         from .FRN_arch import FRN
         net = FRN(in_channels=opt['in_channels'],out_channels=opt['out_channels'],num_features=opt['num_features'],
                        upscale_factor=opt['scale'])
