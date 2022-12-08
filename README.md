@@ -21,11 +21,11 @@ Test:
     
 If you find our work useful in your research or publications, please consider citing:
 
-@article{liu2022lightweight,
-  title={Lightweight image super-resolution with a feature-refined network},
-  author={Liu, Feiqiang and Yang, Xiaomin and De Baets, Bernard},
-  journal={Signal Processing: Image Communication},
-  pages={116898},
-  year={2022},
-  publisher={Elsevier}
-}
+    @article{liu2022lightweight,
+      title={Lightweight image super-resolution with a feature-refined network},
+      author={Liu, Feiqiang and Yang, Xiaomin and De Baets, Bernard},
+      journal={Signal Processing: Image Communication},
+      pages={116898},
+      year={2022},
+      publisher={Elsevier}
+    }
