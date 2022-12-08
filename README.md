@@ -20,7 +20,7 @@ Test:
     change the datasets storage path in the test_FRN_x2.json, test_FRN_x3.json and test_FRN_x4.json files.
     
     
-If you find our work useful in your research or publications, please consider citing:
+If you find our work useful in your research or publications, please star the code and consider citing:
 
     @article{liu2022lightweight,
       title={Lightweight image super-resolution with a feature-refined network},
