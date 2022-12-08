@@ -13,8 +13,8 @@
     "datasets": {
         "test_set1": {
             "mode": "LRHR",
-            "dataroot_HR": "/dataset/SR-Dataset/TestData_SR/test_x3/Manga109_mod_x3",
-            "dataroot_LR": "/dataset/SR-Dataset/TestData_SR/test_x3/Manga109_LR_x3",
+            "dataroot_HR": "/dataset/SR-Dataset/TestData_SR/test_x3/Set5_mod_x3",
+            "dataroot_LR": "/dataset/SR-Dataset/TestData_SR/test_x3/Set5_LR_x3",
             "data_type": "img"
         }
     },
