@@ -12,6 +12,6 @@ Requirements:
 
 Test:
 
-    python test.py -opt options/test/test_SRFBN_x2_BI.json
-    python test.py -opt options/test/test_SRFBN_x3_BI.json
-    python test.py -opt options/test/test_SRFBN_x4_BI.json
+    python test.py -opt options/test/test_FRN_x2.json
+    python test.py -opt options/test/test_FRN_x3.json
+    python test.py -opt options/test/test_FRN_x4.json
