@@ -1,14 +1,14 @@
 # FRN 
 Requirements:
 
-    Python 3 (Anaconda is recommended)
-    skimage
-    imageio
-    Pytorch (Pytorch version >=0.4.1 is recommended)
-    tqdm
-    pandas
-    cv2 (pip install opencv-python)
-    Matlab
+    1.Python==3.6 (Anaconda is recommended)
+    2.skimage
+    3.imageio
+    4.Pytorch==1.2
+    5.tqdm
+    6.pandas
+    7.cv2 (pip install opencv-python)
+    8.Matlab
 
 Test:
 
