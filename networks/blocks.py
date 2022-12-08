@@ -13,10 +13,3 @@ class MeanShift(nn.Conv2d):
         self.bias.data.div_(std)
         for p in self.parameters():
             p.requires_grad = False
-
-
-
-
-
-
-
