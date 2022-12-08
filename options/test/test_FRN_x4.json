@@ -13,8 +13,8 @@
     "datasets": {
         "test_set1": {
             "mode": "LRHR",
-            "dataroot_HR": "G:/SR-Dataset/show_featuremaps/Set5_mod_x4",
-            "dataroot_LR": "G:/SR-Dataset/show_featuremaps/Set5_LR_x4",
+            "dataroot_HR": "/dataset/SR-Dataset/TestData_SR/test_x4/Set5_mod_x4",
+            "dataroot_LR": "/dataset/SR-Dataset/TestData_SR/test_x4/Set5_LR_x4",
             "data_type": "img"
         }
     },
