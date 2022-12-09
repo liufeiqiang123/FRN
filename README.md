@@ -1,4 +1,20 @@
 # FRN 
+This repository is Pytorch code for our proposed FRN.
+![figure2](https://user-images.githubusercontent.com/42378133/206620532-d68ae121-b41b-4bd1-9e3f-240052fe303b.png)
+
+Schematic representation of the proposed Feature-Reﬁned Network (FRN) and its submodules. The details about our proposed SRFBN can be found in our main paper.
+
+If you find our work useful in your research or publications, please star the code and consider citing:
+
+    @article{liu2022lightweight,
+      title={Lightweight image super-resolution with a feature-refined network},
+      author={Liu, Feiqiang and Yang, Xiaomin and De Baets, Bernard},
+      journal={Signal Processing: Image Communication},
+      pages={116898},
+      year={2022},
+      publisher={Elsevier}
+    }
+
 Requirements:
 
     1. Python==3.6 (Anaconda is recommended)
@@ -32,14 +48,3 @@ Some Qualitative Results:
 
 Visual comparison of the results of our FRN with those of other state-of-the-art lightweight methods on some images from the B100 and Urban100
 datasets for x4 SR. The best results are indicated in bold.
-
-If you find our work useful in your research or publications, please star the code and consider citing:
-
-    @article{liu2022lightweight,
-      title={Lightweight image super-resolution with a feature-refined network},
-      author={Liu, Feiqiang and Yang, Xiaomin and De Baets, Bernard},
-      journal={Signal Processing: Image Communication},
-      pages={116898},
-      year={2022},
-      publisher={Elsevier}
-    }
