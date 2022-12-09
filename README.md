@@ -21,7 +21,7 @@ Test:
     
 Results:
 
-[IMAGE-D-22-00241_R1](https://user-images.githubusercontent.com/42378133/206619147-36b59788-4253-42ca-bd93-4a41d8f86cee.png)
+![Quantitative Results](https://user-images.githubusercontent.com/42378133/206619423-1e924dea-3176-472f-b9e3-47a508998b43.png)
 
 If you find our work useful in your research or publications, please star the code and consider citing:
 
