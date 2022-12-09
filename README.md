@@ -21,11 +21,17 @@ Test:
     
 Results:
 
-Quantitative Results
+Quantitative Results:
 ![Quantitative Results](https://user-images.githubusercontent.com/42378133/206619675-b21e628b-1393-4d99-b415-96b56a594c5e.png)
 
 Average PSNR/SSIM for x2, x3 and x4 SR on datasets Set5, Set14, B100, Urban100, and Manga109. The best and second best results are highlighted in
 red and blue, respectively.
+
+Some Qualitative Results:
+![figure5](https://user-images.githubusercontent.com/42378133/206620012-87495f7a-66c2-4cfd-8f39-42dc425a2e05.png)
+
+Visual comparison of the results of our FRN with those of other state-of-the-art lightweight methods on some images from the B100 and Urban100
+datasets for x4 SR. The best results are indicated in bold.
 
 If you find our work useful in your research or publications, please star the code and consider citing:
 
