@@ -2,7 +2,7 @@
 This repository is Pytorch code for our proposed FRN.
 ![figure2](https://user-images.githubusercontent.com/42378133/206620532-d68ae121-b41b-4bd1-9e3f-240052fe303b.png)
 
-Schematic representation of the proposed Feature-Reﬁned Network (FRN) and its submodules. The details about our proposed SRFBN can be found in our main paper.
+Schematic representation of the proposed Feature-Reﬁned Network (FRN) and its submodules. The details about our proposed FRN can be found in our main paper.
 
 If you find our work useful in your research or publications, please star the code and consider citing:
 
