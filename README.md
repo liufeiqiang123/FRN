@@ -1,7 +1,6 @@
 # Lightweight Image Super-Resolution with a Feature-Reﬁned Network
 This repository is Pytorch code for our proposed FRN.
 ![figure2](https://user-images.githubusercontent.com/42378133/206620532-d68ae121-b41b-4bd1-9e3f-240052fe303b.png)
-
 Schematic representation of the proposed Feature-Reﬁned Network (FRN) and its submodules. The details about our proposed FRN can be found in our main paper.
 
 If you find our work useful in your research or publications, please star the code and consider citing:
@@ -44,6 +43,5 @@ red and blue, respectively.
 
 Some Qualitative Results:
 ![figure5](https://user-images.githubusercontent.com/42378133/206620012-87495f7a-66c2-4cfd-8f39-42dc425a2e05.png)
-
 Visual comparison of the results of our FRN with those of other state-of-the-art lightweight methods on some images from the B100 and Urban100
 datasets for x4 SR. The best results are indicated in bold.
