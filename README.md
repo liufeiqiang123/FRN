@@ -1,4 +1,4 @@
-# FRN 
+# Lightweight Image Super-Resolution with a Feature-Reﬁned Network
 This repository is Pytorch code for our proposed FRN.
 ![figure2](https://user-images.githubusercontent.com/42378133/206620532-d68ae121-b41b-4bd1-9e3f-240052fe303b.png)
 
@@ -15,7 +15,7 @@ If you find our work useful in your research or publications, please star the co
       publisher={Elsevier}
     }
 
-Requirements:
+##Requirements:
 
     1. Python==3.6 (Anaconda is recommended)
     2. skimage
