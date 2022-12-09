@@ -19,7 +19,10 @@ Test:
     Finally, PSNR/SSIM values for Set5 are shown on your screen, you can find the reconstruction images in ./results. Other standard SR benchmark dadasets, you need to
     change the datasets storage path in the test_FRN_x2.json, test_FRN_x3.json and test_FRN_x4.json files.
     
-    
+Results:
+
+[IMAGE-D-22-00241_R1](https://user-images.githubusercontent.com/42378133/206619147-36b59788-4253-42ca-bd93-4a41d8f86cee.png)
+
 If you find our work useful in your research or publications, please star the code and consider citing:
 
     @article{liu2022lightweight,
