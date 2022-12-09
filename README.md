@@ -26,7 +26,7 @@ If you find our work useful in your research or publications, please star the co
     7. cv2 (pip install opencv-python)
     8. Matlab
 
-Test:
+## Test:
 
     python test.py -opt options/test/test_FRN_x2.json
     python test.py -opt options/test/test_FRN_x3.json
@@ -35,7 +35,7 @@ Test:
     Finally, PSNR/SSIM values for Set5 are shown on your screen, you can find the reconstruction images in ./results. Other standard SR benchmark dadasets, you need to
     change the datasets storage path in the test_FRN_x2.json, test_FRN_x3.json and test_FRN_x4.json files.
     
-Results:
+## Results:
 
 Quantitative Results:
 ![Quantitative Results](https://user-images.githubusercontent.com/42378133/206619675-b21e628b-1393-4d99-b415-96b56a594c5e.png)
