@@ -21,7 +21,11 @@ Test:
     
 Results:
 
-![Quantitative Results](https://user-images.githubusercontent.com/42378133/206619423-1e924dea-3176-472f-b9e3-47a508998b43.png)
+Quantitative Results
+![Quantitative Results](https://user-images.githubusercontent.com/42378133/206619675-b21e628b-1393-4d99-b415-96b56a594c5e.png)
+
+Average PSNR/SSIM for x2, x3 and x4 SR on datasets Set5, Set14, B100, Urban100, and Manga109. The best and second best results are highlighted in
+red and blue, respectively.
 
 If you find our work useful in your research or publications, please star the code and consider citing:
 
