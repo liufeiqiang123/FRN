@@ -23,7 +23,6 @@ If you find our work useful in your research or publications, please star the co
     5. tqdm
     6. pandas
     7. cv2 (pip install opencv-python)
-    8. Matlab
 
 ## Test:
 
