@@ -5,10 +5,11 @@ Schematic representation of the proposed Feature-Reﬁned Network (FRN) and its 
 
 If you find our work useful in your research work, please star the code and consider citing:
 
-    @article{liu2022lightweight,
+    @article{liu2023lightweight,
       title={Lightweight image super-resolution with a feature-refined network},
       author={Liu, Feiqiang and Yang, Xiaomin and De Baets, Bernard},
       journal={Signal Processing: Image Communication},
+      volume={111},
       pages={116898},
       year={2023},
       publisher={Elsevier}
