@@ -10,7 +10,7 @@ If you find our work useful in your research work, please star the code and cons
       author={Liu, Feiqiang and Yang, Xiaomin and De Baets, Bernard},
       journal={Signal Processing: Image Communication},
       pages={116898},
-      year={2022},
+      year={2023},
       publisher={Elsevier}
     }
 
